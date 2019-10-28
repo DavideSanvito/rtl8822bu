@@ -1,3 +1,16 @@
+# TP-Link Archer T3U AC1300 Ubuntu 18.04.3 LTS
+
+
+```
+git clone https://github.com/DavideSanvito/rtl8822bu.git
+cd rtl8822bu/
+make
+sudo make install
+sudo dkms add ./rtl8822bu
+```
+
+---
+
 <u>**8822BU for Linux**</u>
 
 Driver for 802.11ac USB Adapter with  
